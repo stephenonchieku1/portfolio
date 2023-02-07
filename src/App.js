@@ -1,5 +1,6 @@
 import './App.css';
 import "./assets/js/script";
+//import {Route,Routes} from "react-router-dom";
 import Header from './components/Header/Header';
 import Newsletter from './components/Newsletter/Newsletter';
 import Services from './components/Services/Services';
@@ -13,6 +14,7 @@ import Footer from './components/Footer/Footer';
 function App() {
   return (
     <div className="App">
+     
       <Header />
       <Services />
       <Work />
@@ -21,7 +23,8 @@ function App() {
       <About />
       <Testimonials />
       <Contact />
-      <Footer />
+      <Footer/>
+ 
     </div>
   );
 }
