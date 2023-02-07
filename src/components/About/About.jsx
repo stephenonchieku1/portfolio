@@ -21,7 +21,7 @@ const About = () => {
                 <div className='about-grid grid'>
                     <img src = {images.About_Alex} alt = "" className='about-img mx-auto' />
                     <div className='section-title'>
-                        <h3 className='text-brown'>I'm <span className='text-dark'>Alex</span></h3>
+                        <h3 className='text-brown'>I'm <span className='text-dark'>Stephen Onchieku</span></h3>
                         <p className='text mx-auto'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam culpa distinctio mollitia consectetur dolore! Iusto dolores reprehenderit at ad! Molestiae.</p>
                     </div>
                 </div>
