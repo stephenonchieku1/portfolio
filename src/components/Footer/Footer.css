@@ -6,9 +6,12 @@
 }
 .footer-social-links{
     margin-top: 2rem;
+    padding: 20px; ;
 }
 .footer-social-links li{
     margin: 0 1rem;
+    padding: 20px;
+
 }
 .footer .reserved-text{
     margin-top: 2rem;
