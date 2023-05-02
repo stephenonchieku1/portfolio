@@ -1,4 +1,4 @@
-import header_background from "../assets/images/header_background.png";
+import header_background from "../assets/images/header_background.jpg";
 import pattern_00 from "../assets/images/pattern_00.png";
 import pattern_1 from "../assets/images/pattern_1.png";
 import services_img_1 from "../assets/images/services_img_1.svg";
