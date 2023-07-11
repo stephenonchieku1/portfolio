@@ -26,16 +26,16 @@ const Navbar = () => {
                                 <Link to = "/" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>Home</Link>
                             </li>
                             <li className='nav-item'>
-                                <Link to = "/" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>Services</Link>
+                                <Link to = "/Services" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>Services</Link>
                             </li>
                             <li className='nav-item'>
-                                <Link to = "/" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>Works</Link>
+                                <Link to = "/Works" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>Works</Link>
                             </li>
                             <li className='nav-item'>
-                                <Link to = "/" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>About Me</Link>
+                                <Link to = "/About" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>About Me</Link>
                             </li>
                             <li className='nav-item'>
-                                <Link to = "/" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>Contact</Link>
+                                <Link to = "/Contact" className='nav-link text-white ls-1 text-uppercase fw-6 fs-22'>Contact</Link>
                             </li>
                         </ul>
                     </div>
