@@ -19,7 +19,7 @@ root.render(
       <Route path = "/" element = {<App></App>}></Route>
       <Route path = "/Services" element = {<App></App>}></Route>
       <Route path = "/Work" element = {<App></App>}></Route>
-      <Route path = "/About" element = {<App></App>}></Route>
+      <Route path = "/About" element = {<About></About>}></Route>
       <Route path = "/Contact" element = {<Contact></Contact>}></Route>
       
     </Routes>
