@@ -36,7 +36,7 @@ const Footer = () => {
                 </ul>
                 <p className='text-center fs-14 text-white op-07 fw-3 ls-1 reserved-text'>All Rights Reserved &copy;since 2022</p>
                <p>Copyright  © {new Date().getFullYear()} </p>
-               <p>Copyright  </p>
+               <p>STEPHEN ONCHIEKU </p>
             </div>
         </div>
     </div>
