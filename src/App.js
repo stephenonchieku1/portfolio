@@ -21,7 +21,7 @@ function App() {
       <WorkProcess />
       <Newsletter />
       <About />
-      <Testimonials />
+    
       <Contact />
       <Footer/>
  
